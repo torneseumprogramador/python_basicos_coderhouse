@@ -1,0 +1,3 @@
+prettytable
+pandas
+mysql-connector-python
