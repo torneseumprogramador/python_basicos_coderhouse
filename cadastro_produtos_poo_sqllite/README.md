@@ -12,3 +12,8 @@ python migrate.py
 ```sh
 python init.py
 ```
+
+# Mostrando dados no pandas
+```sh
+python pandas_sqlite.py
+```
